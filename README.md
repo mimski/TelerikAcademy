@@ -16,7 +16,7 @@ I am associating a - [x]  with "done", i.e. the - [ ] of "todo".
 - [ ] Larges Area in Matrix
 - [ ] Sequence in Matrix
 - [ ] Max sum of 3x3
-- [ ] Крачкомер
+- [x] Крачкомер
 - [ ] Game
 - [ ] Парола
 - [ ] Добри числа

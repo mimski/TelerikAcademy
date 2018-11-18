@@ -1,0 +1,2 @@
+# TelerikAcademy
+Judge Tasks

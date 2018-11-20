@@ -1,4 +1,4 @@
 # C# Judge Tasks
 
-- [ ] WalkMeter
+- [X] WalkMeter
 - [ ] SayHello

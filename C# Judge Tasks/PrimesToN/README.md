@@ -1,6 +1,6 @@
 # Primes to N
 
-Print all the prime numbers between 1 and N
+Print all the prime numbers between 1 and **N**
 
 ## Input
 

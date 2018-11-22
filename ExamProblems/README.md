@@ -1,3 +1,3 @@
-# Telerik Academy Exams
+# Telerik Academy Exams and Contests
 
-Solutions to the exams
+Solutions to the exams and contests

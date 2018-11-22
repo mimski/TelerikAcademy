@@ -24,7 +24,12 @@ A car can catch up to the car B, only if B is in-front of A and the speed of A i
   - `3 + 9 + 100 = 112`
 - The answer is `112`
 
-![speeds example](./imgs/example.png)
+![speedsexamplepic](https://user-images.githubusercontent.com/44443424/48899266-d05b2600-ee57-11e8-951d-b351c40d29c4.png)
+
+123
+
+
+![speeds example](![speedsexamplepic](https://user-images.githubusercontent.com/44443424/48899266-d05b2600-ee57-11e8-951d-b351c40d29c4.png))
 
 ## Input
 

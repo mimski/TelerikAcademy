@@ -1,4 +1,4 @@
 # C# Judge Tasks
-
-- [X] WalkMeter
-- [ ] SayHello
+- [X] Primes to N
+- [X] Walk Meter
+- [ ] Say Hello

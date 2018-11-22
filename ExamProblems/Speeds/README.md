@@ -37,7 +37,7 @@ All input data is read from the standard input (the console)
 The output data is printed on the standard output (the console)
 
 - On the single line on the output print the **sum of the the initial speeds of longest group** (the group with most cars)
-  - If there are groups with equal length, print the buggest sum 
+  - If there are groups with equal length, print the biggest sum 
 
 ## Constraints
 

@@ -44,7 +44,7 @@ The output data is printed on the standard output (the console)
 - `C` will always be between `1` and `1000`
 - Each `S` will always be between `1` and `1500`
 - **The input data will always be correct and there is no need to check it explicitly**
-- Allowed memory: **8 MiB** 
+- Allowed memory: **8 MB** 
 - Allowed working time for your program: **0.1 seconds** 
 
 

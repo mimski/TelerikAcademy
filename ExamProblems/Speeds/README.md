@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/logos/telerik-header-logo.png" />
-#### _Telerik Academy Season 2016-2017 / C# Fundamentals Exam - 26 April 2016_
-
-# Task 2: Speeds
+# Speeds
 
 ## Description
 
@@ -25,11 +22,6 @@ A car can catch up to the car B, only if B is in-front of A and the speed of A i
 - The answer is `112`
 
 ![speedsexamplepic](https://user-images.githubusercontent.com/44443424/48899266-d05b2600-ee57-11e8-951d-b351c40d29c4.png)
-
-123
-
-
-![speeds example](![speedsexamplepic](https://user-images.githubusercontent.com/44443424/48899266-d05b2600-ee57-11e8-951d-b351c40d29c4.png))
 
 ## Input
 

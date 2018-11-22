@@ -1,4 +1,201 @@
-# C# Judge Tasks
-- [X] Primes to N
-- [X] Walk Meter
+# Telerik Academy
+
+My solutions to the tasks at [Telerik Academy Judge](https://judge.telerikacademy.com/) - The Telerik Academy Judge System
+
+I am associating a \[x] with "done", i.e. the [ ] of "todo". 
+
+## Judge Tasks
+
+- [ ] Allocate Array
+- [ ] Biggest Prime Number
+- [ ] Max Sum of K elements
+- [ ] Longest Sequence of Equal
+- [ ] Longest Increasing Sequence
+- [ ] Max Sum of Subsequence
+- [ ] Most Frequent
+- [ ] Larges Area in Matrix
+- [ ] Sequence in Matrix
+- [ ] Max sum of 3x3
+- [x] Крачкомер
+- [ ] Game
+- [ ] Парола
+- [ ] Добри числа
+- [ ] Тайно съобщение
+- [ ] Колби
+- [ ] Ранкове
+- [ ] Kitty
+- [ ] Numbers From 1 to N
+- [ ] Not Divisable Number
+- [ ] Min Max Sum Average
+- [ ] Print Deck
+- [ ] Calculate!
+- [ ] Calculate Again
+- [ ] Calculate 3
+- [ ] Catalan Numbers
+- [ ] Matrix of Numbers
+- [ ] Odd or Even Product
+- [ ] Binary to Decimal
+- [ ] Decimal To Binary
+- [ ] Decimal To Hex
+- [ ] Hex to Decimal
+- [ ] GCD
+- [ ] Trailing Zeros in Factorial
+- [ ] Spiral Matrix
+- [ ] Exchange if Greater
+- [ ] Bonus Score
+- [ ] Check for Play Card
+- [ ] Multiplication Sign
+- [ ] Biggest of Three
+- [ ] Biggest of Five
+- [ ] Sort Three Numbers
+- [ ] Digit as Word
+- [ ] Int, Double, String
 - [ ] Say Hello
+- [ ] Get Largest Number
+- [ ] Appearance Count
+- [ ] Largest Than Neighbours
+- [ ] First Largest Than Neighbors
+- [ ] Reverse Number
+- [ ] Adding Polynomials
+- [ ] Cartesian Coordinates
+- [ ] Tribonacci
+- [ ] Message in a bottle
+- [ ] Cooking
+- [ ] Miss Cat
+- [ ] Forest Road
+- [ ] Binary Digits Count
+- [ ] Math Expression
+- [ ] Least Majority Multiple
+- [ ] Trapezoid
+- [ ] Odd Number
+- [ ] Ship Damage!
+- [ ] Bike Damage
+- [ ] Trains
+- [ ] K Base
+- [ ] Dogecoin
+- [ ] Invasion
+- [ ] Quadronacci
+- [ ] Combinations
+- [ ] Combinations with Repetitions
+- [ ] Diameter
+- [ ] Medians
+- [ ] Maximal Path
+- [ ] Horse Matrix
+- [ ] Resources
+- [ ] Червената Шапчица
+- [ ] Действия
+- [ ] Kaspichan Numbers
+- [ ] Maze Runner
+- [ ] Paper Cutter
+- [ ] Spell Caster
+- [ ] Counting
+- [ ] Pyramids
+- [ ] Numbers
+- [ ] Merging and Squashing
+- [ ] Balanced Numbers
+- [ ] Legs
+- [ ] Signal from Space
+- [ ] Crooked Digits
+- [ ] Girls Gone Wild
+- [ ] Passwords
+- [ ] Разлика
+- [ ] Сума
+- [ ] Сума от n до m
+- [ ] Схема
+- [ ] Идеални пароли
+- [ ] Близки букви
+- [ ] Ски
+- [ ] Joro the Rabbit
+- [ ] Reverse Array
+- [ ] Symmetric Arrays
+- [ ] Above the Main Diagonal
+- [ ] Above the Main Diagonal 2
+- [ ] Three Groups
+- [ ] Numbers Triangle
+- [ ] На плаж
+- [ ] Сладолед
+- [ ] Електронно съобщение
+- [ ] Игра с числа
+- [ ] Ресто
+- [ ] Украса на кея
+- [ ] Хотели
+- [ ] Цифри в текст
+- [ ] Фигури
+- [ ] Прозорци
+- [ ] Делители
+- [ ] Оценки
+- [ ] Подобни масиви
+- [ ] Големи числа
+- [ ] Домашно
+- [ ] Кръстословица
+- [ ] Array Search
+- [ ] Автобусна Екскурзия
+- [ ] Подредба
+- [ ] Огледални Кодове
+- [ ] Мутация
+- [ ] Кодирани SMS-и
+- [ ] Паркиране
+- [ ] Контролно
+- [ ] Благозвучни Думи
+- [ ] Най-малка Цифра
+- [ ] Награда
+- [ ] Щастлив Номер
+- [ ] Обиколка
+- [ ] Несъкратима дроб
+- [ ] Цифри
+- [ ] Кръг
+- [ ] A + B
+- [ ] 3D Slices
+- [ ] Swappings
+- [ ] Reconstruction
+- [ ] Stools
+- [ ] Beers
+- [ ] Subset of Sum S
+- [ ] Permutations
+- [ ] Next Permutation
+- [ ] Path to One
+- [ ] Hex To Bin
+- [ ] Bin To Hex
+- [ ] Plus One, Multiple One
+- [ ] Big Numbers
+- [ ] N Factorial
+- [ ] Jedi Meditation
+- [ ] Brackets Expressions
+- [ ] Indices
+- [ ] Fall Down
+- [ ] Numerology
+- [ ] Pretty Numbers
+- [ ] Black And White
+- [ ] Bits Time
+- [ ] Food
+- [ ] Move with Joy
+- [ ] Ninja
+- [ ] Solve Sudoku!
+- [ ] Tubes!
+- [ ] MinMaxSum
+- [ ] Coki Skoki
+- [ ] Friends
+- [ ] Friends in Need
+- [ ] Асансьори!
+- [ ] Boji Goal
+- [ ] Камион
+- [ ] Digits
+- [ ] Units of Work
+- [ ] Player ranking
+- [ ] Guess The Date
+- [ ] Prime Triangle
+- [ ] Coki's Products
+- [ ] Speeds
+- [ ] Crooked Stairs
+- [ ] Hops
+- [ ] Horse Path
+- [ ] Портали
+- [ ] Разпръскване на коня
+- [ ] Zig Zag
+- [ ] Primes to N
+- [ ] Четни Числа
+- [ ] Числа
+- [ ] Square Root
+- [ ] Age
+- [ ] Long Sequence
+- [ ] Sum two numbers

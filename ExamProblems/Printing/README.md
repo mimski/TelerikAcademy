@@ -29,11 +29,9 @@ Output the amount of money with precision **2 digits** after the decimal point (
 52.80	
 ```
 #### Explanation
-```
 1100 students with 5 sheets of paper each = total 5500 sheets of paper.
 5500 sheets of paper means 11 reams.
 11 reams with price of 4.80 each = 52.80
-```
 ___
 
 #### Example input
@@ -47,9 +45,7 @@ ___
 47.83
 ```
 #### Explanation
-```
 686 students with 7 sheets of paper each = total 4802 sheets of paper.
 4802 sheets of paper means 9.604 reams.
 9.604 reams with price of 4.98 each = 47.83
 Actually the exact result is 47.82792 but when rounded to the second digit after the decimal point we come up with 47.83
-```

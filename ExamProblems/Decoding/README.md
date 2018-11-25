@@ -6,7 +6,7 @@ The encoding is done as follows:
 * If the character in the original text is a digit, add to its char code SALT and add 500
 * If the character in the original text is not a digit or letter (any other symbol), subtract from its char code SALT
 * After performing the above operations on the character in the original text:
-	-If the character is on even position in the original text - divide the encoded value by 100 and round the precision to 2 decimal digits right of the decimal point
+	- If the character is on even position in the original text - divide the encoded value by 100 and round the precision to 2 decimal digits right of the decimal point
 	- Else if the character is on odd position in the original text - multiply by 100
 	- The first character is at position 0. 
 	

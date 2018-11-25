@@ -10,6 +10,7 @@ The input data is given at the standard input.
 It consists of two lines:
 * The first one contains the number M, that is used for the module of the result
 * The second line contains the text
+
 The input will be valid, in the specified format, within the constraints given below. There is no need to check the input data explicitly.
 ### Output
 Print the result from the parsing (RESULT)

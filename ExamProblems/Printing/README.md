@@ -20,7 +20,9 @@ Output the amount of money with precision **2 digits** after the decimal point (
 ### Examples
 #### Example input
 1100
+
 5
+
 4.80
 #### Example output
 52.80	

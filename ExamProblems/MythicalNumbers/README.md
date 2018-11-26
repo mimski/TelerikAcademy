@@ -6,9 +6,9 @@ Pesho the **mythical** dragon has been trying to solve this task for years but w
 ### The magical number
 You are given a number that is **3 digits** long. Depending on the **3rd digit**, you need to perform some calculations.
 
-* If the **3rd digit** is zero, find the product of the `first two digits`.
-* If the **3rd digit** is between 0 and 5 inclusive, find the product of the `first two digits` and divide the result by the `3rd digit`.
-* If the **3rd digit** is larger than 5, find the sum of the `first two digits` and multiply the result by the `3rd digit`.
+* If the **3rd digit** is zero, find the product of the *first two digits*.
+* If the **3rd digit** is between 0 and 5 inclusive, find the product of the *first two digits* and divide the result by the *3rd digit*.
+* If the **3rd digit** is larger than 5, find the sum of the *first two digits* and multiply the result by the *3rd digit*.
 
 ## Input
 On the only input line, you will receive a number that contains 3 digits.

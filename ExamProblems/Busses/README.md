@@ -15,7 +15,7 @@ Given the sequence of the speeds of the buses, print on the console the number o
 
 ## Example:
 
-
+![bussesexample](https://user-images.githubusercontent.com/44443424/49050384-d6e8f500-f1eb-11e8-876f-e86eefcf531a.png)
 
 ## Input
 
